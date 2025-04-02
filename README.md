@@ -1,6 +1,5 @@
 ## Hi there I'm Aashutosh👋
 
-### Hi there, I'm [Your Name] 👋
 
 Welcome to my GitHub! I'm passionate about **Algorithmic Trading**, **Data Analytics**, and **Python Development**. My work primarily revolves around **intraday crypto trading strategies**, **financial modeling**, and **data-driven insights**. 
 
