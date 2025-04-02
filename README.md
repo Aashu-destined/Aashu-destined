@@ -1,16 +1,16 @@
 ## Hi there I'm Aashutosh👋
 
+### Data Analyst | Python Developer | Algorithmic Trader
 
-Welcome to my GitHub! I'm passionate about **Algorithmic Trading**, **Data Analytics**, and **Python Development**. My work primarily revolves around **intraday crypto trading strategies**, **financial modeling**, and **data-driven insights**. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aashu-destined&label=Profile%20views&color=0e75b6&style=flat" alt="muskan213" /> </p>
 
----
-
-## 🚀 About Me
-- 🎯 Algorithmic Trader | Data Analyst | Python Developer
-- 📈 Developing AI-driven trading setups with **EMA crossovers & momentum strategies**
+## 🚀 Welcome to my Hub
+- 🔭 I’m currently working on **learning new skills & refining the old ones**
+- 💬 Ask me about **𝘌𝘹𝘤𝘦𝘭, 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐, 𝘚𝘒𝘓, 𝘗𝘺𝘵𝘩𝘰𝘯, Tableau**
 - 📊 Learning and mastering **Data Analytics & Business Intelligence**
-- 🛠️ Building **backtesting frameworks, trading dashboards & automation systems**
 - ⚡ Exploring **Machine Learning & AI for financial markets**
+- ⚡ Fun fact **switched to the tech world from non-tech and realized it's a good place to be in😊**
+
 
 ---
 
@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm passionate about **Algorithmic Trading**, **Data Analy
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aashu-destined&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashu-destined&theme=radical" alt="GitHub Streak" width="50%" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashu-destined&theme=radical" alt="GitHub Streak" width="50%" /> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashu-destined&layout=compact&theme=radical" alt="Top Languages" width="50%" /> -->
 </p>
 
