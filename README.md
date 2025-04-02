@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm passionate about **Algorithmic Trading**, **Data Analy
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aashu-destined&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashu-destined&theme=radical" alt="GitHub Streak" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashu-destined&layout=compact&theme=radical" alt="Top Languages" width="50%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashu-destined&layout=compact&theme=radical" alt="Top Languages" width="50%" /> -->
 </p>
 
 ---
