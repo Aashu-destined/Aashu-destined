@@ -44,7 +44,7 @@
 
 ## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aashutosh-namdeo-279883354/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashutoshnamdeo)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-profile)
 [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
@@ -52,9 +52,9 @@
 ---
 
 🔭 **Currently Working On**: 
-- 📌 **AI-powered trading automation**
-- 📌 **Backtesting high-frequency strategies**
 - 📌 **Data visualization & analytics dashboards**
+- 📌 **Backtesting high-frequency strategies**
+- 📌 **Medium Content Writing**
 
 💡 **Always learning**: Machine Learning, Algorithmic Trading, and Data Science 📚
 
